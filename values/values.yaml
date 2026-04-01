@@ -1,7 +1,5 @@
 replicaCount: 1
 
-enableDefaultInitContainers: false
-
 service:
   type: ClusterIP
   port: 80
