@@ -11,5 +11,5 @@ service:
 image:
   registry: docker.io
   repository: techino/nginix
-  tag: "1.0"
+  tag: "10.0"
   pullPolicy: Always
